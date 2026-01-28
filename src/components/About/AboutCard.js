@@ -7,30 +7,29 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-       <p style={{ textAlign: "justify" }}>
-  Hi everyone! I'm <span className="purple">Layan Al Amri</span>.
-  <br />
-  I'm a <span className="purple">Management Information Systems</span> student at
-  <span className="purple"> Imam Abdulrahman Bin Faisal University</span> (College of Business Administration).
-  <br />
-  My cumulative GPA is <span className="purple">4.27 / 5</span>.
-  <br /><br />
-  I’m interested in <span className="purple">Business Intelligence</span>, 
-  <span className="purple"> Data & Analytics</span>, and 
-  <span className="purple"> Information Systems</span>—especially areas like databases, systems analysis, and decision support.
-</p>
+          <p style={{ textAlign: "justify" }}>
+            Hi everyone! I'm <span className="purple">Layan Al Amri</span>.
+            <br />
+            I'm a <span className="purple">Management Information Systems</span> student at
+            <span className="purple"> Imam Abdulrahman Bin Faisal University</span> (College of Business Administration).
+            <br />
+            <br />
+            I’m interested in <span className="purple">Business Intelligence</span>,
+            <span className="purple"> Data & Analytics</span>, and
+            <span className="purple"> Information Systems</span>—especially areas like databases, systems analysis, and decision support.
+          </p>
 
 
           <ul>
-<li className="about-activity">
-  <ImPointRight /> Learning new technologies 💻
-</li>
-<li className="about-activity">
-  <ImPointRight /> Working on personal projects 📊
-</li>
-<li className="about-activity">
-  <ImPointRight /> Exploring data and business insights 📈
-</li>
+            <li className="about-activity">
+              <ImPointRight /> Learning new technologies 💻
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Working on personal projects 📊
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Exploring data and business insights 📈
+            </li>
 
           </ul>
 

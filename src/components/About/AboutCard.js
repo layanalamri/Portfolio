@@ -22,7 +22,7 @@ function AboutCard() {
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Learning new technologies 💻
+              <ImPointRight /> Learning new technologiess 💻
             </li>
             <li className="about-activity">
               <ImPointRight /> Working on personal projects 📊
